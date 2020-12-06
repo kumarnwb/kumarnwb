@@ -48,11 +48,11 @@
   <summary> Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR []() in [callousedspace/callousedspace](https://github.com/kumarnwb)
-2. 🗣 Commented on []() in [callousedspace/callousedspace](https://github.com/kumarnwb)
-3. ❌ Closed PR []() in [callousedspace/callousedspace](https://github.com/kumarnwb)
-4. 🎉 Merged PR []() in [callousedspace/callousedspace](https://github.com/kumarnwb)
-5. 💪 Opened PR []() in [](https://github.com/callousedspace)
+1. ❌ Closed PR []() in [kumarnwb/kumarnwb](https://github.com/kumarnwb)
+2. 🗣 Commented on []() in [kumarnwb/kumarnwb](https://github.com/kumarnwb)
+3. ❌ Closed PR []() in [kumarnwb/kumarnwb](https://github.com/kumarnwb)
+4. 🎉 Merged PR []() in [kumarnwb/kumarnwb](https://github.com/kumarnwb)
+5. 💪 Opened PR []() in [](https://github.com/kumarnwb)
 <!--END_SECTION:activity-->
 
 </details>
